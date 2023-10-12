@@ -1,3 +1,12 @@
+
+<img width="1096" alt="Screen Shot 2023-10-12 at 12 43 06 AM" src="https://github.com/JaimeChen12138/packingListCheck-Application_React/assets/91461448/2d57127b-a4f8-45ec-9d5d-aa19691476ae">
+
+<img width="1079" alt="Screen Shot 2023-10-12 at 12 43 38 AM" src="https://github.com/JaimeChen12138/packingListCheck-Application_React/assets/91461448/03df27c2-aa89-46d3-990c-8ffbc38d9ccf">
+
+<img width="1096" alt="Screen Shot 2023-10-12 at 12 44 46 AM" src="https://github.com/JaimeChen12138/packingListCheck-Application_React/assets/91461448/e9a6e6a0-144b-4852-bc3e-464006abc769">
+
+<img width="1065" alt="Screen Shot 2023-10-12 at 12 44 08 AM" src="https://github.com/JaimeChen12138/packingListCheck-Application_React/assets/91461448/8e85fd0d-9af3-4a35-a8d9-8d7437ecd76b">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
